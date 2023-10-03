@@ -1,2 +1,7 @@
 # senior-research
-This is my senior research project that is titled Lacrosse Playing Analysis Through Motion Capture and K-Means Clustering AI Algorithm.
+
+This research project aimed to develop a web application for lacrosse coaches to optimize their team's performance by placing players in positions that maximize their skill sets. The application includes different tabs for accessing raw datasets, viewing basic player position details, and finalizing positions after running the program. The K-means clustering algorithm was selected for this project as it was found to be the most effective at analyzing trends between the data, compared to hierarchical clustering and supervised decision tree algorithms. The results of this study will enable lacrosse coaches to better organize their teams, ultimately leading to improved performance on the field. The results of this project are still in development as the final product is being pieced together. The work shows good promise in reaching the final results and the research paper and presentation will be updated accordingly afterwards.
+
+This research will allow us to creatively explore a new field of sports and motion capture by combining algorithmic predictions with statistical analysis. I want somebody to gain insightful information by using my web app and be able to use a cohesive shortcut to making plays for their sports team. More specifically, through my years of playing lacrosse, I hope to see my web app be in use for real people in my life!
+
+In this repository, you will find the sorter code that I used for finding the best arrangement of players on the field. This was coded in Python and the version available was one of the preliminary versions. 
